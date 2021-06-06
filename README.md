@@ -1,10 +1,12 @@
 ### 🌼  Hi there 🌼
 
-🌼 I am working as a Software Engineer at Capgemini, I am passionate about improving my current skills and learning more new skills. I am a quick leaner with strong   attention to details.
+🌼  I am working as a Software Engineer at Capgemini, I am passionate about improving my current skills and learning more new skills. 
 
-🌼 I am really enthusiastic about learning new skills , improving my knowledge and I love doing different volunteering.
+🌼  I am a quick leaner with strong    attention to details.
 
-🌼 I love reading books on Personal Developments and Science.
+🌼  I am really enthusiastic about learning new skills , improving my knowledge and I love doing different volunteering.
+
+🌼  I love reading books on Personal Developments and Science.
 
 
 <!--
