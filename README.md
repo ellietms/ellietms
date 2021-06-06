@@ -1,6 +1,6 @@
 ### 🌼  Hi there 🌼
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![<linkedin>](https://www.linkedin.com/in/ellie-tahmasebi/<Linkedin>-<blue>?style=for-the-badge&logo=<Icon Name>&logoColor=<purple>)
 
 🌼  I am working as a Software Engineer at Capgemini. 
 
