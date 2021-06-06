@@ -17,7 +17,17 @@
 🏹   I'm an extremely organized person who is focused on producing results.
      While I am always realistic when setting goals, I consistently develop ways to efficiently achieve, and often exceed, those goals.
         
-### 🏅 Achievements         
+### 🏅 Achievements       
+
+🥇 I have got my first job as a software engineer at capgemini.
+
+🥇 I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a huge amounts of applicants In just 1 year.
+
+🥇 I learnt different kinds of modules : Html ,Css ,Javascript ,React , MongoDB ,Node ,Express ,SQl ,Python ,Datasctructure ,Algorithms ,Debugging.
+
+🥇 I improved my team work and soft skills.
+
+🥇 I am doing different kinds of volunteering for helping people.
 
 <!--
 **ellietms/ellietms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
