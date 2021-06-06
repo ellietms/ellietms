@@ -19,16 +19,16 @@
         
 ### 🏅 Achievements       
 
-🥇 I have got my first job as a software engineer at capgemini.
+🥇 I have got my first job as a software engineer at Capgemini.
 
-🥇 I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a huge amounts of applicants In just one year.
+🥇 In just one year, I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a huge amounts of applicants.
 
 🥇 I learnt different kinds of modules :
  - Html, Css, Javascript, React.
  - API, MongoDB, Node, Express, SQl.
  - Python, Datasctructures, Algorithms, Debugging.
 
-🥇 I improved my team work and soft skills.
+🥇 I improved my team work experience and my soft skills.
 
 🥇 I am doing different kinds of volunteering for helping people.
 
