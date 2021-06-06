@@ -21,9 +21,9 @@
 
 🥇 I have got my first job as a software engineer at capgemini.
 
-🥇 I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a huge amounts of applicants In just 1 year.
+🥇 I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a huge amounts of applicants In just one year.
 
-🥇 I learnt different kinds of modules : Html ,Css ,Javascript ,React , MongoDB ,Node ,Express ,SQl ,Python ,Datasctructure ,Algorithms ,Debugging.
+🥇 I learnt different kinds of modules : Html, Css, Javascript, React, MongoDB,Node ,Express ,SQl ,Python ,Datasctructures ,Algorithms ,Debugging.
 
 🥇 I improved my team work and soft skills.
 
