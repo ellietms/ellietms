@@ -10,7 +10,7 @@
 🐛   I love solving problems in programming and my real life.
 
 🔥   I am a quick learner with strong attention to details.
-     I am the kind of person who knows how to execute difficult tasks with precision. 
+     I am the kind of person who knows how to execute difficult tasks with  precision. 
      I pay attention to all the details of a project. 
      I make sure that every task is just right and that it is completed in a timely manner.
 
