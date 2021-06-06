@@ -2,7 +2,7 @@
 
 🌼  I am working as a Software Engineer at Capgemini. 
 
-🌼  I know Html , CSS , Javascript, React, MongoDB , Node, Express, SQL, API.
+🌼  I know Html, CSS, Javascript, React, MongoDB, Node, Express, SQL, API.
 
 🌼  I am enthusiastic about learning new skills, improving my knowledge and I enjoy doing different kinds of volunteering.
 
