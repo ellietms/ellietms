@@ -1,5 +1,7 @@
 ### 🌼  Hi there 🌼
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 🌼  I am working as a Software Engineer at Capgemini. 
 
 🌼  I know Html, CSS, Javascript, React, MongoDB, Node, Express, SQL, API.
