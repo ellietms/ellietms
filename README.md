@@ -3,11 +3,11 @@
 
 👩🏼‍💻   I am working as a Software Engineer at Capgemini. 
 
-✨   I know Html, CSS, Javascript, React, MongoDB, Node, Express, SQL, API.
+📚   I know Html, CSS, Javascript, React, MongoDB, Node, Express, SQL, API.
 
 🥰   I am enthusiastic about learning new skills, improving my knowledge and I enjoy doing different kinds of volunteering.
 
-🐛   I love to solving problems in code and in my real life.
+🐛   I love solving problems in programming and my real life.
 
 🔥   I am a quick learner with strong attention to details.
      I am the kind of person who knows how to execute difficult tasks with precision. 
@@ -16,6 +16,7 @@
 
 🏹   I'm an extremely organized person who is focused on producing results.
      While I am always realistic when setting goals, I consistently develop ways to efficiently achieve, and often exceed, those goals.
+          
 
 <!--
 **ellietms/ellietms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
