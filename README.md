@@ -23,7 +23,7 @@
 
 🥇 I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a huge amounts of applicants In just one year.
 
-🥇 I learnt different kinds of modules : Html, Css, Javascript, React, MongoDB,Node ,Express ,SQl ,Python ,Datasctructures ,Algorithms ,Debugging.
+🥇 I learnt different kinds of modules : Html,Css,Javascript,React,MongoDB,Node,Express,SQl,Python,Datasctructures,Algorithms,Debugging.
 
 🥇 I improved my team work and soft skills.
 
