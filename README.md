@@ -1,4 +1,9 @@
-### Hi there 🤗
+### 🌼 Hi there 🤗
+
+✨ I am working as a Software Engineer at Capgemini, I am passionate about improving my current skills and learning more new skills. I am a quick leaner with strong   attention to details.
+
+🌼 I am really enthusiastic about learning new skills , improving my knowledge and doing volunteering.
+
 
 <!--
 **ellietms/ellietms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
