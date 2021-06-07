@@ -7,9 +7,12 @@
 
 👩🏼‍🎓 &nbsp;&nbsp;I am learning Python, datastructures, algorithms and debugging.
 
-🥰 &nbsp;&nbsp;I am enthusiastic about learning new skills, improving my knowledge and I enjoy doing different kinds of volunteering.
-
 🐛 &nbsp;&nbsp;I love solving problems in programming and my real life.
+
+🥰 &nbsp;&nbsp;I am enthusiastic about learning new skills, improving my knowledge.
+
+😇&nbsp;&nbsp;I enjoy doing different kinds of volunteering.
+
 
 <hr>
 
