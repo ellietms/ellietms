@@ -24,6 +24,7 @@
 🥇 In just one year,I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a huge amounts of applicants and high competition.
 
 🥇 I learnt different kinds of modules :
+ - Git & GitHub.
  - Html, Css, Javascript, React.
  - API, MongoDB, Node, Express, SQl.
  - Python, Datasctructures, Algorithms, Debugging.
