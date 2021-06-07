@@ -45,7 +45,7 @@
    - Capgemini linkedin ([here](https://www.linkedin.com/posts/capgemini_techforgood-codeyourfuture-diversityintech-activity-6772203530703925248-hmhW)) 
    - CodeYourFuture Linkedin and Twitter([here](https://www.linkedin.com/posts/codeyourfuture_techforgood-codeyourfuture-diversityintech-activity-6769592600379834368-oIn1))
    - CodeFirstGirls Website([here](https://codefirstgirls.org.uk/courses/))
-   - Elysian search consulting ([here](https://www.linkedin.com/posts/elysian-search-consulting_techforgood-codeyourfuture-diversityintech-activity-6774044513368322048-3SPc))
+   - Elysian search consulting Linkedin([here](https://www.linkedin.com/posts/elysian-search-consulting_techforgood-codeyourfuture-diversityintech-activity-6774044513368322048-3SPc))
 
 <!--
 **ellietms/ellietms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
