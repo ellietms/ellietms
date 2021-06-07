@@ -44,7 +44,7 @@
 
  🥇&nbsp;&nbsp;I have got my first job as a software engineer at Capgemini.
 
- 🥇&nbsp;&nbsp; In just one year,I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a large number of&nbsp;&nbsp; applicants and high      &nbsp competition.
+ 🥇&nbsp;&nbsp; In just one year,I have got different kinds of scholarships from CodeYourFuture and CodeFirstGirls between a large number of &nbsp;&nbsp; applicants and high &nbsp; competition.
 
 🥇&nbsp;&nbsp; I have become an expert in different kinds of tools:
  - Git & GitHub.
