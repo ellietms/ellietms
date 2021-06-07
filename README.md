@@ -9,7 +9,7 @@
 
 🐛 &nbsp;&nbsp;I love solving problems in programming and my real life.
 
-🥰 &nbsp;&nbsp;I am enthusiastic about learning new skills, improving my knowledge.
+🥰 &nbsp;&nbsp;I am enthusiastic about learning new skills and improving my knowledge.
 
 😇&nbsp;&nbsp;I enjoy doing different kinds of volunteering.
 
