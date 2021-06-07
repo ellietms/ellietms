@@ -41,7 +41,7 @@
 
 ### ⛳️ Fun fact
 
-    🔝 My nominated by :
+   🔝 My nominated by :
    - Capgemini linkedin 
    - CodeYourFuture Linkedin and Twitter
    - CodeFirstGirls Website.
