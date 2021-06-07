@@ -16,6 +16,7 @@
 
 🏹   I'm an extremely organized person who is focused on producing results.
      While I am always realistic when setting goals, I consistently develop ways to efficiently achieve, and often exceed, those goals.
+     
         
 ### 🏅 Achievements       
 
@@ -37,9 +38,13 @@
 
 🥇 I am doing different kinds of volunteering for helping people.
 
+
 ### ⛳️ Fun fact
 
-
+    🔝 My nominated by :
+   - Capgemini linkedin 
+   - CodeYourFuture Linkedin and Twitter
+   - CodeFirstGirls Website.
 
 <!--
 **ellietms/ellietms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
