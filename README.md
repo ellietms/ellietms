@@ -42,7 +42,7 @@
 ### ⛳️ Fun fact
 
    🔝 My nominated by :
-   - Capgemini linkedin 
+   - Capgemini linkedin ([here](quora.com/profile/Ashish-Kulkarni-100)) 
    - CodeYourFuture Linkedin and Twitter
    - CodeFirstGirls Website.
 
