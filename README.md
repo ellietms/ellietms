@@ -11,6 +11,7 @@
 
 🐛 &nbsp;&nbsp;I love solving problems in programming and my real life.
 
+<hr>
 
 ### 👩🏼‍💻  How I describe myself 
 
@@ -33,7 +34,8 @@
  
 - <strong> flexible </strong> : <br>
    I’m comfortable adjusting to any situation and don’t get flustered easily when faced with unexpected challenges. 
-
+   
+<hr>
         
 ### 🏅 Achievements       
 
@@ -55,6 +57,7 @@
 
 🥇&nbsp;&nbsp; I am doing different kinds of volunteering for helping people.
 
+<hr>
 
 ### ⛳️ Fun fact
 
