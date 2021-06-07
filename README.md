@@ -1,4 +1,4 @@
-### 🕵🏻‍♀️   About me 
+### 🕵🏻‍♀️ &nbsp;&nbsp; About me 
 
 
 👩🏼‍💻 &nbsp;&nbsp;I am working as a Software Engineer at Capgemini. 
@@ -16,7 +16,7 @@
 
 <hr>
 
-### 👩🏼‍💻  How I describe myself 
+### 👩🏼‍💻  &nbsp;&nbsp; How I describe myself 
 
 - <strong> strong attention to details </strong>: <br>
      I am a quick learner with strong attention to details.<br>
@@ -40,7 +40,7 @@
    
 <hr>
         
-### 🏅 Achievements       
+### 🏅  &nbsp;&nbsp; Achievements       
 
  🥇&nbsp;&nbsp;I have got my first job as a software engineer at Capgemini.
 
@@ -62,7 +62,7 @@
 
 <hr>
 
-### ⛳️ Fun fact
+### ⛳️ &nbsp;&nbsp;  Fun fact
 
    🔝 My name was mentioned in different social media of different organisations :  
    - Capgemini linkedin ([here](https://www.linkedin.com/posts/capgemini_techforgood-codeyourfuture-diversityintech-activity-6772203530703925248-hmhW)) 
