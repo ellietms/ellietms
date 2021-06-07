@@ -28,10 +28,18 @@
  - Html, Css, Javascript, React.
  - API, MongoDB, Node, Express, SQl.
  - Python, Datasctructures, Algorithms, Debugging.
+ 
+🏅 I also learnt some libraries on my own :
+ 
+ - Bootstrap4, Mongoose, React Router, Node Mailer, React Bootstrap, React-Redux.
 
 🥇 I improved my team work experience and my soft skills.
 
 🥇 I am doing different kinds of volunteering for helping people.
+
+### ⛳️ Fun fact
+
+
 
 <!--
 **ellietms/ellietms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
