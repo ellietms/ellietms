@@ -3,7 +3,7 @@
 
 👩🏼‍💻 &nbsp;&nbsp;I am working as a Software Engineer at Capgemini. 
 
-📚 &nbsp;&nbsp;I am coding in Html, CSS, Javascript, React, MongoDB, Node, Express, SQL, Nunjunks.
+📚 &nbsp;&nbsp;I am coding in Html, CSS, Javascript, Python, React, MongoDB, Node, Express, SQL, Nunjunks.
 
 👩🏼‍🎓 &nbsp;&nbsp;I am learning Python, datastructures, algorithms and debugging.
 
