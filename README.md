@@ -1,4 +1,4 @@
-# Hi, I'm Ellie 👋
+# Hi, I'm Ellie 👋🏻
 
 I'm a **Software Engineer with 5+ years of experience in full-stack engineering**, with a strong focus on frontend development using **React, TypeScript, GraphQL, Node.js, and SQL databases**.
 
