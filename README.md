@@ -26,7 +26,7 @@ I enjoy understanding how things work beyond the UI, mentoring others, and turni
 
 When I'm not coding, I'm usually learning something new, building community, or helping someone else grow in tech.
 
-## 🤝 Connect with me
+## 🤝🏼 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ellie-tahmasebi/)
 - 🌐 [Unlock Her Tech](https://www.unlockhertech.com)
