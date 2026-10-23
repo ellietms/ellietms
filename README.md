@@ -9,7 +9,7 @@ I also have experience with **AWS** and observability tools including **Datadog*
 I'm currently expanding my skills into:
 
 - ☕ **Java & Spring Boot**
-- - ☕ **AWS**
+- 🪣**AWS**
 - 🍎 **iOS development with Swift**
 - 🏗️ **Backend engineering & system design**
 
