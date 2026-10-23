@@ -10,8 +10,8 @@ I'm currently expanding my skills into:
 
 - ☕ **Java & Spring Boot**
 - 🪣**AWS**
-- 🍎 **iOS development with Swift**
 - 🏗️ **Backend engineering & system design**
+- 🍎 **iOS development with Swift**
 
 ## 💜 Community & Mentoring
 
